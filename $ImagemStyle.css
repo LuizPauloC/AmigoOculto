@@ -1,0 +1,14 @@
+body {
+    color: #0ee527;
+    font-family: Helvetica;
+    text-align: center;
+    background-image: url(confia.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-position-y: -45px;
+}
+
+img {
+    margin-top: 150px;
+}
